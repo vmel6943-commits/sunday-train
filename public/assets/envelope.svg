@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs>
+<linearGradient id="night" x2="0" y2="1"><stop stop-color="#0b192a"/><stop offset="1" stop-color="#243a52"/></linearGradient>
+<linearGradient id="paper" x2="0" y2="1"><stop stop-color="#fff0d6"/><stop offset=".55" stop-color="#f1debb"/><stop offset="1" stop-color="#d3b589"/></linearGradient>
+<linearGradient id="leather" x2="0" y2="1"><stop stop-color="#976241"/><stop offset=".5" stop-color="#6c4334"/><stop offset="1" stop-color="#392e2a"/></linearGradient>
+<linearGradient id="brass" x2="0" y2="1"><stop stop-color="#ffe3a0"/><stop offset=".34" stop-color="#bd8c46"/><stop offset=".7" stop-color="#e5bd78"/><stop offset="1" stop-color="#895f31"/></linearGradient>
+<linearGradient id="burgundy" x2="0" y2="1"><stop stop-color="#ac6754"/><stop offset="1" stop-color="#67382f"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#fff6c1" stop-opacity=".9"/><stop offset="1" stop-color="#e6b760" stop-opacity="0"/></radialGradient>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feGaussianBlur in="SourceAlpha" stdDeviation="10" result="blur"/><feOffset dx="0" dy="10"/><feComponentTransfer><feFuncA type="linear" slope="0.26"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="dots" width="75" height="75" patternUnits="userSpaceOnUse"><circle cx="5" cy="7" r="1.3" fill="#f1d8a0" opacity=".15"/><path d="M35 35 l3 0 m-1.5 -1.5 l0 3" stroke="#f1d8a0" stroke-width=".8" opacity=".14"/></pattern>
+</defs><rect x="60" y="118" width="392" height="280" rx="16" fill="url(#paper)" stroke="#D7B176" stroke-width="9"/><path d="M65 139 L256 283 L447 139 M70 387 L218 274 M443 387 L292 274" fill="none" stroke="#b78d5e" stroke-width="7"/><circle cx="256" cy="283" r="44" fill="url(#burgundy)" stroke="#bf9364" stroke-width="8"/><path d="M239 283 l17 -21 l17 21 l-17 21 z" fill="#D7B176"/></svg>

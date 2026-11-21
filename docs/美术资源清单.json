@@ -1,0 +1,446 @@
+[
+  {
+    "key": "deskMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A01_邀请函书桌_手机竖屏.png",
+    "path": "/assets/deskMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "desk",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A02_邀请函书桌_桌面横屏.png",
+    "path": "/assets/desk.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "stationMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A03_雾中车站_手机竖屏.png",
+    "path": "/assets/stationMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "station",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A04_雾中车站_桌面横屏.png",
+    "path": "/assets/station.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "hallMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A05_候车大厅_手机竖屏.png",
+    "path": "/assets/hallMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "hall",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A06_候车大厅_桌面横屏.png",
+    "path": "/assets/hall.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "machineMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A07_古董出票机_手机竖屏.png",
+    "path": "/assets/machineMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "machine",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A08_古董出票机_桌面横屏.png",
+    "path": "/assets/machine.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "platformMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A09_月夜站台列车_手机竖屏.png",
+    "path": "/assets/platformMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "platform",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/01_第一批_核心场景/A10_月夜站台列车_桌面横屏.png",
+    "path": "/assets/platform.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "carriageMobile",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/02_第二批_补充场景与系统界面/B01_豪华列车车厢_手机竖屏.png",
+    "path": "/assets/carriageMobile.webp",
+    "width": 1080,
+    "height": 1920,
+    "alpha": false
+  },
+  {
+    "key": "carriage",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/02_第二批_补充场景与系统界面/B01b_豪华列车车厢_桌面裁切适配.png",
+    "path": "/assets/carriage.webp",
+    "width": 1920,
+    "height": 1080,
+    "alpha": false
+  },
+  {
+    "key": "informant",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/01_第一批_原生场景10张/S11_情报贩子车厢_桌面.png",
+    "path": "/assets/informant.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "informantMobile",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/01_第一批_原生场景10张/S11_情报贩子车厢_手机.png",
+    "path": "/assets/informantMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "workbench",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/01_第一批_原生场景10张/S15_皮箱工作台_桌面.png",
+    "path": "/assets/workbench.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "workbenchMobile",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/01_第一批_原生场景10张/S15_皮箱工作台_手机.png",
+    "path": "/assets/workbenchMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "passengerMobile",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE01_乘客车厢_移动.png",
+    "path": "/assets/passengerMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "passenger",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE02_乘客车厢_桌面.png",
+    "path": "/assets/passenger.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "corridorMobile",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE03_观景走廊_移动.png",
+    "path": "/assets/corridorMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "corridor",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE04_观景走廊_桌面.png",
+    "path": "/assets/corridor.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "radioMobile",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE07_广播角_移动.png",
+    "path": "/assets/radioMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "radio",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE08_广播角_桌面.png",
+    "path": "/assets/radio.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "dining",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE06_美食制作_桌面.png",
+    "path": "/assets/dining.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "diningMobile",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE05_餐车推车_移动.png",
+    "path": "/assets/diningMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "journal",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE10_首日收尾_桌面.png",
+    "path": "/assets/journal.webp",
+    "width": 1672,
+    "height": 941,
+    "alpha": false
+  },
+  {
+    "key": "journalMobile",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/01_第三幕主场景_已有原图/SCENE09_旅行手账_移动.png",
+    "path": "/assets/journalMobile.webp",
+    "width": 941,
+    "height": 1672,
+    "alpha": false
+  },
+  {
+    "key": "attendant",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/03_原始角色立绘/乘务鹅_马雨秋_正面透明.png",
+    "path": "/assets/attendant.webp",
+    "width": 606,
+    "height": 819,
+    "alpha": true
+  },
+  {
+    "key": "captain",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/03_原始角色立绘/列车长鹅_胡焯薇_正面透明.png",
+    "path": "/assets/captain.webp",
+    "width": 524,
+    "height": 807,
+    "alpha": true
+  },
+  {
+    "key": "journalist",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/03_原始角色立绘/旅行手账鹅_邓琴_正面透明.png",
+    "path": "/assets/journalist.webp",
+    "width": 607,
+    "height": 819,
+    "alpha": true
+  },
+  {
+    "key": "spy",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/05_原始鹅设_独立立绘/角色_神秘情报鹅_周紫琳_正面_透明抠图.png",
+    "path": "/assets/spy.webp",
+    "width": 635,
+    "height": 823,
+    "alpha": true
+  },
+  {
+    "key": "envelope",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_01_神秘邀请信封.svg",
+    "path": "/assets/envelope.svg",
+    "type": "vector"
+  },
+  {
+    "key": "seal",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_02_火漆封印.svg",
+    "path": "/assets/seal.svg",
+    "type": "vector"
+  },
+  {
+    "key": "watch",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_03_黄铜怀表.svg",
+    "path": "/assets/watch.svg",
+    "type": "vector"
+  },
+  {
+    "key": "stamp",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_04_检票印章.svg",
+    "path": "/assets/stamp.svg",
+    "type": "vector"
+  },
+  {
+    "key": "luggage",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_05_复古皮箱.svg",
+    "path": "/assets/luggage.svg",
+    "type": "vector"
+  },
+  {
+    "key": "tag",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_06_行李牌.svg",
+    "path": "/assets/tag.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ticket",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_07_列车车票.svg",
+    "path": "/assets/ticket.svg",
+    "type": "vector"
+  },
+  {
+    "key": "notebook",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_08_旅行手账本.svg",
+    "path": "/assets/notebook.svg",
+    "type": "vector"
+  },
+  {
+    "key": "newspaper",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_09_旧新闻报纸.svg",
+    "path": "/assets/newspaper.svg",
+    "type": "vector"
+  },
+  {
+    "key": "bell",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_10_黄铜服务铃.svg",
+    "path": "/assets/bell.svg",
+    "type": "vector"
+  },
+  {
+    "key": "key",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_11_神秘钥匙.svg",
+    "path": "/assets/key.svg",
+    "type": "vector"
+  },
+  {
+    "key": "magnifier",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_12_放大镜.svg",
+    "path": "/assets/magnifier.svg",
+    "type": "vector"
+  },
+  {
+    "key": "medal",
+    "original": "鹅鹅列车_第一幕_第一二批双端美术素材_最终版/鹅鹅列车_第一幕_双端完整美术资源包/03_第二批_透明底道具_PNG与SVG/P_14_徽章纪念章.svg",
+    "path": "/assets/medal.svg",
+    "type": "vector"
+  },
+  {
+    "key": "cassette",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/04_透明交互道具_PNG_SVG/P17_神秘录音磁带.svg",
+    "path": "/assets/cassette.svg",
+    "type": "vector"
+  },
+  {
+    "key": "suitcase",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/04_透明交互道具_PNG_SVG/P01_三锁皮箱_关闭.svg",
+    "path": "/assets/suitcase.svg",
+    "type": "vector"
+  },
+  {
+    "key": "suitcaseOpen",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/04_透明交互道具_PNG_SVG/P02_情报皮箱_打开.svg",
+    "path": "/assets/suitcaseOpen.svg",
+    "type": "vector"
+  },
+  {
+    "key": "film",
+    "original": "鹅鹅列车_第二幕_全部素材_含拆分PNG与SVG/鹅鹅列车_第二幕_完整拆分素材_开发版/04_透明交互道具_PNG_SVG/P08_电影胶片卷.svg",
+    "path": "/assets/film.svg",
+    "type": "vector"
+  },
+  {
+    "key": "food1",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/02_透明食物_独立PNG和SVG/FOOD01_反转千层酥.svg",
+    "path": "/assets/food1.svg",
+    "type": "vector"
+  },
+  {
+    "key": "food2",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/02_透明食物_独立PNG和SVG/FOOD02_等等再说热可可.svg",
+    "path": "/assets/food2.svg",
+    "type": "vector"
+  },
+  {
+    "key": "food3",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/02_透明食物_独立PNG和SVG/FOOD03_多视角拼盘.svg",
+    "path": "/assets/food3.svg",
+    "type": "vector"
+  },
+  {
+    "key": "food4",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/02_透明食物_独立PNG和SVG/FOOD04_回声气泡饮.svg",
+    "path": "/assets/food4.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient1",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING01_草莓.svg",
+    "path": "/assets/ingredient1.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient2",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING02_奶油.svg",
+    "path": "/assets/ingredient2.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient3",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING03_焦糖.svg",
+    "path": "/assets/ingredient3.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient4",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING04_蓝莓.svg",
+    "path": "/assets/ingredient4.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient5",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING05_曲奇.svg",
+    "path": "/assets/ingredient5.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient6",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING06_薄荷.svg",
+    "path": "/assets/ingredient6.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient7",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING07_柠檬.svg",
+    "path": "/assets/ingredient7.svg",
+    "type": "vector"
+  },
+  {
+    "key": "ingredient8",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/03_透明配料_独立PNG和SVG/ING08_巧克力.svg",
+    "path": "/assets/ingredient8.svg",
+    "type": "vector"
+  },
+  {
+    "key": "mark1",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/05_印章图标_独立PNG和SVG/STAMP01_放大镜印记.svg",
+    "path": "/assets/mark1.svg",
+    "type": "vector"
+  },
+  {
+    "key": "mark2",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/05_印章图标_独立PNG和SVG/STAMP02_保留疑问印记.svg",
+    "path": "/assets/mark2.svg",
+    "type": "vector"
+  },
+  {
+    "key": "mark3",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/05_印章图标_独立PNG和SVG/STAMP03_欢迎讨论印记.svg",
+    "path": "/assets/mark3.svg",
+    "type": "vector"
+  },
+  {
+    "key": "mark4",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/05_印章图标_独立PNG和SVG/STAMP04_记录惊喜印记.svg",
+    "path": "/assets/mark4.svg",
+    "type": "vector"
+  },
+  {
+    "key": "mark5",
+    "original": "鹅鹅列车_第三幕_主场景与补充拆分素材/鹅鹅列车_第三幕_完整美术素材包/05_印章图标_独立PNG和SVG/STAMP05_DAY01盖章.svg",
+    "path": "/assets/mark5.svg",
+    "type": "vector"
+  }
+]

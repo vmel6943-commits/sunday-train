@@ -1,0 +1,56 @@
+[
+  {
+    "id": "invitation",
+    "title": "一封午夜来信",
+    "bpm": 70,
+    "duration_seconds": 54.86,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/invitation.mp3",
+    "bytes": 878593
+  },
+  {
+    "id": "departure",
+    "title": "最后一声汽笛",
+    "bpm": 96,
+    "duration_seconds": 45.0,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/departure.mp3",
+    "bytes": 721022
+  },
+  {
+    "id": "investigation",
+    "title": "皮箱里的回声",
+    "bpm": 82,
+    "duration_seconds": 46.83,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/investigation.mp3",
+    "bytes": 750279
+  },
+  {
+    "id": "night",
+    "title": "月光越过车窗",
+    "bpm": 76,
+    "duration_seconds": 56.84,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/night.mp3",
+    "bytes": 910358
+  },
+  {
+    "id": "dining",
+    "title": "餐车的甜点华尔兹",
+    "bpm": 108,
+    "duration_seconds": 40.0,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/dining.mp3",
+    "bytes": 641192
+  },
+  {
+    "id": "finale",
+    "title": "把今夜好好收藏",
+    "bpm": 72,
+    "duration_seconds": 53.33,
+    "source": "原创程序作曲与合成，无外部采样",
+    "path": "/music/finale.mp3",
+    "bytes": 854351
+  }
+]

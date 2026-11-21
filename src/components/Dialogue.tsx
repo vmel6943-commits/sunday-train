@@ -1,0 +1,16 @@
+import {useEffect,useRef,useState} from 'react';
+import {History,Play,SkipForward,ChevronRight,X} from 'lucide-react';
+import {characters,art} from '../data/config';
+import type {DialogueSpec} from '../data/dialogues';
+import {useGame} from '../game/store';
+export function Dialogue({spec,onEnd,onHistory,onDismiss,paused=false}:{spec:DialogueSpec;onEnd:()=>void;onHistory:()=>void;onDismiss:()=>void;paused?:boolean}){
+ const [index,setIndex]=useState(0),[count,setCount]=useState(0),[response,setResponse]=useState<string|null>(null);
+ const settings=useGame(s=>s.game.settings),read=useGame(s=>s.game.flags.includes('read:'+spec.id));
+ const [auto,setAuto]=useState(settings.auto);const logged=useRef('');const line=response??spec.lines[index];const char=characters[spec.character];const ready=count>=line.length;const last=index===spec.lines.length-1;
+ useEffect(()=>{setCount(settings.reducedMotion?line.length:0);const key=spec.id+':'+index+':'+line;if(logged.current!==key){logged.current=key;useGame.getState().log(char.name,line);}},[line]);
+ useEffect(()=>{if(ready)return;const id=window.setTimeout(()=>setCount(c=>c+1),Math.max(5,48-settings.textSpeed));return()=>clearTimeout(id);},[count,line,ready,settings.textSpeed]);
+ function next(){if(!ready){setCount(line.length);return;}if(response||last&&!spec.choices){onEnd();return;}if(!last)setIndex(i=>i+1);}
+ useEffect(()=>{if(paused||!auto||!ready||last&&spec.choices&&!response)return;const id=window.setTimeout(next,2200);return()=>clearTimeout(id);},[auto,ready,index,response,paused]);
+ useEffect(()=>{const key=(e:KeyboardEvent)=>{if((e.key===' '||e.key==='ArrowRight')&&!(e.target instanceof HTMLInputElement)&&!(e.target instanceof HTMLTextAreaElement)&&!(e.target instanceof HTMLButtonElement)){e.preventDefault();next();}};window.addEventListener('keydown',key);return()=>window.removeEventListener('keydown',key);});
+ return <div className="dialogue-wrap cinematic-dialogue"><section className="dialogue-box" aria-label={`${char.name}的对话`}><div className="dialogue-head"><div className="speaker"><span className="speaker-medallion"><img src={art(char.image)} alt=""/></span><span className="speaker-name"><strong>{char.name}</strong><small>{char.role}</small></span></div><div className="dialogue-tools"><button title="对话记录" aria-label="对话记录" onClick={onHistory}><History size={17}/></button><button title="自动播放" aria-label="自动播放" aria-pressed={auto} onClick={()=>setAuto(v=>!v)}><Play size={17}/></button>{read&&<button title="跳过已读" aria-label="跳过已读对话" onClick={onEnd}><SkipForward size={17}/></button>}<button title="收起对话" aria-label="收起对话，返回当前场景" onClick={onDismiss}><X size={17}/></button></div></div><p className="dialogue-text" onClick={next}>{line.slice(0,count)}{!ready&&<span className="type-caret"/>}</p>{last&&spec.choices&&ready&&!response?<><div className="dialogue-choices">{spec.choices.map(c=><button key={c.label} onClick={()=>{useGame.getState().choose(spec.id,c.label);useGame.getState().log('旅客',c.label);setResponse(c.response);}}>{c.label}</button>)}</div><button className="dialogue-next dialogue-skip-choice" onClick={onEnd}>继续听故事<ChevronRight size={16}/></button></>:<button className="dialogue-next" onClick={next}><span>{!ready?'显示全文':response||last?spec.endLabel||'继续旅程':'继续'}</span><ChevronRight size={17}/></button>}</section></div>;
+}
